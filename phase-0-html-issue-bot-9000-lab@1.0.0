@@ -1,0 +1,12 @@
+
+> phase-0-html-issue-bot-9000-lab@1.0.0 test
+> mocha -R mocha-multi --timeout 5000 --reporter-options spec=-,json=.results.json test
+
+
+
+  index.html
+    ✔ should be present (47ms)
+
+
+  1 passing (78ms)
+
